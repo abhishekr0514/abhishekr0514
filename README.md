@@ -11,8 +11,8 @@
 <a href="https://github.com/abhishekr0514">
 <img src="https://img.shields.io/badge/GitHub-abhishekr0514-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Portfolio-LINK%20REQUIRED-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio link required" />
-<img src="https://img.shields.io/badge/LinkedIn-LINK%20REQUIRED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link required" />
+<img src="https://img.shields.io/badge/Portfolio-LINK%20REQUIRED-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Coming soon" />
+<img src="https://www.linkedin.com/in/abhishek-ravi-19557528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn link required" />
 
 <br><br>
 
@@ -35,7 +35,7 @@ of backend engineering, machine learning, and intelligent applications.
 → Currently    Deepening AI/ML + backend engineering + system design
 ```
 
-> **My goal:** turn complex technical ideas into software that people can actually use.
+> **My goal:** Turn complex technical ideas into software that people can actually use.
 
 ---
 
@@ -44,7 +44,7 @@ of backend engineering, machine learning, and intelligent applications.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,sql" />
 </p>
 
 ### 🎨 Frontend
@@ -56,13 +56,13 @@ of backend engineering, machine learning, and intelligent applications.
 ### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,node.js" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mysql" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -81,7 +81,7 @@ of backend engineering, machine learning, and intelligent applications.
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
 </p>
 
 ---
@@ -344,14 +344,12 @@ Improving:
 
 | Area                     | Status                      |
 | :----------------------- | :-------------------------- |
-| 🎓 Academic Projects     | Active                      |
-| 💼 Internship Experience | Add verified experience     |
+| 🎓 Academic Projects     | Active (Currently working on Major Project) 
+| 💼 Internship Experience | Intern at Beagle, Digital Marketing Intern- Infinite Store |
 | 🤖 AI / ML Projects      | Active                      |
-| 🏆 Hackathons            | Add verified achievements   |
-| 📜 Certifications        | Add verified certifications |
+| 📜 Certifications        | Artificial Intelligence Fundamentals- IBM SkillsBuild, Fundamentals of Generative AI- AWS Training & Certification, AWS Cloud Practitioner Essentials- AWS Training & Certification.|
 | 🌎 Open Source           | Growing                     |
 
-> Replace the placeholders above with verified achievements as they are earned.
 > **No inflated claims. No fake badges.**
 
 ---
@@ -388,9 +386,9 @@ Improving:
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/LinkedIn-LINK%20REQUIRED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link required" />
-<img src="https://img.shields.io/badge/Portfolio-LINK%20REQUIRED-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio link required" />
-<img src="https://img.shields.io/badge/Email-LINK%20REQUIRED-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email link required" />
+<img src="https://www.linkedin.com/in/abhishek-ravi-19557528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn link required" />
+<img src="" alt="Coming Soon" />
+<img src="abhishek.r0605@gmail.com" alt="Email link required" />
 
 </div>
 
