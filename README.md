@@ -11,12 +11,8 @@
 <a href="https://github.com/abhishekr0514">
 <img src="https://img.shields.io/badge/GitHub-abhishekr0514-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Portfolio-LINK%20REQUIRED-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio link required" />
+<img src="https://img.shields.io/badge/LinkedIn-LINK%20REQUIRED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link required" />
 
 <br><br>
 
@@ -34,7 +30,7 @@ of backend engineering, machine learning, and intelligent applications.
 
 → Build        Full-stack applications, APIs, ML systems & developer tools
 → Work with    Python, React, FastAPI, Flask, PostgreSQL & modern AI tooling
-→ Explore      NLP, LLM applications, RAG, explainable AI & automation
+→ Explore      NLP, semantic similarity, explainable AI & automation
 → Care about   Clean architecture, useful interfaces, reliable systems
 → Currently    Deepening AI/ML + backend engineering + system design
 ```
@@ -48,7 +44,7 @@ of backend engineering, machine learning, and intelligent applications.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
 </p>
 
 ### 🎨 Frontend
@@ -60,13 +56,13 @@ of backend engineering, machine learning, and intelligent applications.
 ### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -77,7 +73,6 @@ of backend engineering, machine learning, and intelligent applications.
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/SentenceTransformers-0F766E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SHAP-6C5CE7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Flower-FFB000?style=for-the-badge" />
 
@@ -86,7 +81,7 @@ of backend engineering, machine learning, and intelligent applications.
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,docker" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -141,19 +136,20 @@ An interactive AI-powered prompt guessing application using semantic similarity,
 <tr>
 <td width="50%">
 
-<h3>📊 ML Classification Lab</h3>
+<h3>🚑 Parallel Emergency Route Finder</h3>
 
 <p>
-Machine-learning experimentation involving feature selection, dimensionality reduction, classification and SHAP-based explainability.
+A Bengaluru road-network simulation for emergency dispatch, dynamic route recalculation and parallel pathfinding benchmarks.
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-6C5CE7?style=flat-square" />
 </p>
 
-<a href="https://github.com/abhishekr0514/Dimensionality-Reduction-ML-Classification">
+<a href="https://github.com/abhishekr0514/parallel-emergency-route-finder">
 <b>→ Explore Repository</b>
 </a>
 
@@ -161,20 +157,73 @@ Machine-learning experimentation involving feature selection, dimensionality red
 
 <td width="50%">
 
-<h3>🌐 Developer Portfolio</h3>
+<h3>🎓 JSS Smart Attend</h3>
 
 <p>
-A personal web portfolio focused on presenting projects, technical skills and development work through a clean interface.
+A role-based attendance and academic management portal with admin, faculty and student workflows.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
-<a href="https://github.com/abhishekr0514/Portfolio">
+<a href="https://github.com/abhishekr0514/BluewaveInternship/tree/feature-admin">
 <b>→ Explore Repository</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Contributions as a Collaborator
+
+Projects where I contributed as part of a broader engineering team:
+
+<table>
+<tr>
+<td width="33%">
+
+<h3>⚙️ Group Projects</h3>
+
+<p>
+Backend contribution to a collaborative college project repository containing Flask services, SQLite data access, authentication, route modules and academic workflows.
+</p>
+
+<a href="https://github.com/chetanuchiha16/Group-Projects">
+<b>→ View Repository</b>
+</a>
+
+</td>
+
+<td width="33%">
+
+<h3>🎪 Anveshan Site 2026</h3>
+
+<p>
+Frontend support for a React/Vite/TypeScript event website with Tailwind CSS, event pages, gallery content, registration flows and Cashfree checkout integration.
+</p>
+
+<a href="https://github.com/shreyas-078/anveshan-site-2026">
+<b>→ View Repository</b>
+</a>
+
+</td>
+
+<td width="33%">
+
+<h3>🪪 Beagle Certify</h3>
+
+<p>
+Developer contribution to a Next.js and TypeScript credential registry using Supabase for storage and authentication, with public verification and audited admin workflows.
+</p>
+
+<a href="https://github.com/Beagle-AI-automation/beagle-certify">
+<b>→ View Repository</b>
 </a>
 
 </td>
@@ -195,7 +244,6 @@ A personal web portfolio focused on presenting projects, technical skills and de
 
 LLMs
 NLP
-RAG
 Embeddings
 
 </td>
@@ -269,7 +317,7 @@ Building a privacy-aware ML platform combining:
 
 Working with:
 
-`Embeddings` · `SentenceTransformers` · `LLMs` · `RAG` · `Ollama`
+`Embeddings` · `SentenceTransformers` · `Ollama`
 
 </td>
 </tr>
@@ -289,84 +337,6 @@ Improving:
 </tr>
 </table>
 
----
-
-# 🗺️ Developer Journey
-
-```text
-2023
- │
- ├── Programming Fundamentals
- │   └── Python · C++ · Problem Solving
- │
- ▼
-2024
- │
- ├── Web Development
- │   └── HTML · CSS · JavaScript · Frontend
- │
- ▼
-2025
- │
- ├── Full-Stack Engineering
- │   └── React · Flask · FastAPI · SQL · APIs
- │
- ▼
-2026
- │
- ├── AI / ML + Production Systems
- │   ├── NLP · LLMs · Embeddings
- │   ├── Explainable AI
- │   ├── Federated Learning
- │   └── System Design
- │
- ▼
-NEXT
- │
- └── Build → Deploy → Learn → Repeat
-```
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend%20Architecture-4F46E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge" />
-
-<br>
-
-<img src="https://img.shields.io/badge/LLM%20Applications-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-E879F9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-F59E0B?style=for-the-badge" />
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishekr0514&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E5E7EB&ring_color=06B6D4" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekr0514&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhishekr0514&theme=dark&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=38BDF8" />
-
-</div>
-
----
 
 # 🏆 Achievements
 
@@ -418,17 +388,9 @@ NEXT
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-LINK%20REQUIRED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link required" />
+<img src="https://img.shields.io/badge/Portfolio-LINK%20REQUIRED-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio link required" />
+<img src="https://img.shields.io/badge/Email-LINK%20REQUIRED-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email link required" />
 
 </div>
 
