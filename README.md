@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=Abhishek%20Ravi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Backend%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/abhishekr0514">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+software+with+Python+%26+AI;Turning+data+into+intelligent+systems;Designing+APIs%2C+backends+%26+interactive+tools;Exploring+LLMs%2C+NLP+%26+Machine+Learning;Always+building.+Always+learning." alt="Typing SVG" />
+
 </a>
 
 <br>
@@ -11,8 +13,14 @@
 <a href="https://github.com/abhishekr0514">
 <img src="https://img.shields.io/badge/GitHub-abhishekr0514-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Portfolio-LINK%20REQUIRED-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Coming soon" />
-<img src="https://www.linkedin.com/in/abhishek-ravi-19557528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn link required" />
+
+<a href="https://www.linkedin.com/in/abhishek-ravi-19557528b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abhishek.r0605@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br><br>
 
@@ -29,10 +37,10 @@ Software developer focused on building practical systems at the intersection
 of backend engineering, machine learning, and intelligent applications.
 
 → Build        Full-stack applications, APIs, ML systems & developer tools
-→ Work with    Python, React, FastAPI, Flask, PostgreSQL & modern AI tooling
-→ Explore      NLP, semantic similarity, explainable AI & automation
-→ Care about   Clean architecture, useful interfaces, reliable systems
-→ Currently    Deepening AI/ML + backend engineering + system design
+→ Work with   Python, React, FastAPI, Flask, PostgreSQL & modern AI tooling
+→ Explore     NLP, semantic similarity, explainable AI & automation
+→ Care about  Clean architecture, useful interfaces, reliable systems
+→ Currently   Deepening AI/ML + backend engineering + system design
 ```
 
 > **My goal:** Turn complex technical ideas into software that people can actually use.
@@ -44,7 +52,11 @@ of backend engineering, machine learning, and intelligent applications.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
@@ -56,13 +68,29 @@ of backend engineering, machine learning, and intelligent applications.
 ### ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,node.js" />
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST%20APIs-4F46E5?style=for-the-badge" />
+
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,mysql" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=111827" />
+
 </p>
 
 ### 🤖 AI / Machine Learning
@@ -70,18 +98,33 @@ of backend engineering, machine learning, and intelligent applications.
 <p>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
 <img src="https://img.shields.io/badge/SentenceTransformers-0F766E?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/SHAP-6C5CE7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Flower-FFB000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Federated%20Learning-F59E0B?style=for-the-badge" />
 
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827" />
+
 </p>
 
 ---
@@ -90,7 +133,8 @@ of backend engineering, machine learning, and intelligent applications.
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>🫀 Federated Heart Diagnosis</h3>
 
@@ -111,7 +155,7 @@ A privacy-aware machine-learning system combining federated learning, backend AP
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🧩 PromptDecoder</h3>
 
@@ -131,10 +175,12 @@ An interactive AI-powered prompt guessing application using semantic similarity,
 </a>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 <h3>🚑 Parallel Emergency Route Finder</h3>
 
@@ -155,7 +201,7 @@ A Bengaluru road-network simulation for emergency dispatch, dynamic route recalc
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🎓 JSS Smart Attend</h3>
 
@@ -175,6 +221,7 @@ A role-based attendance and academic management portal with admin, faculty and s
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -185,8 +232,10 @@ A role-based attendance and academic management portal with admin, faculty and s
 Projects where I contributed as part of a broader engineering team:
 
 <table>
+
 <tr>
-<td width="33%">
+
+<td width="33%" valign="top">
 
 <h3>⚙️ Group Projects</h3>
 
@@ -200,7 +249,7 @@ Backend contribution to a collaborative college project repository containing Fl
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h3>🎪 Anveshan Site 2026</h3>
 
@@ -214,7 +263,7 @@ Frontend support for a React/Vite/TypeScript event website with Tailwind CSS, ev
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h3>🪪 Beagle Certify</h3>
 
@@ -227,7 +276,9 @@ Developer contribution to a Next.js and TypeScript credential registry using Sup
 </a>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -235,7 +286,9 @@ Developer contribution to a Next.js and TypeScript credential registry using Sup
 # 🔬 What I Like Building
 
 <table>
+
 <tr>
+
 <td align="center" width="25%">
 
 ### 🤖
@@ -245,6 +298,7 @@ Developer contribution to a Next.js and TypeScript credential registry using Sup
 LLMs
 NLP
 Embeddings
+RAG
 
 </td>
 
@@ -286,7 +340,9 @@ Dashboards
 Experiments
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -294,7 +350,9 @@ Experiments
 # 🚧 Currently Building
 
 <table>
+
 <tr>
+
 <td>
 
 ### 🫀 Federated Heart Diagnosis
@@ -306,9 +364,11 @@ Building a privacy-aware ML platform combining:
 `Federated Learning` → `FastAPI` → `PostgreSQL` → `React`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
 ### 🧠 AI / NLP Experiments
@@ -320,9 +380,11 @@ Working with:
 `Embeddings` · `SentenceTransformers` · `Ollama`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
 ### 🧑‍💻 Full-Stack Engineering
@@ -334,23 +396,26 @@ Improving:
 `Backend Architecture` · `Authentication` · `Database Design` · `Deployment`
 
 </td>
+
 </tr>
+
 </table>
 
+---
 
 # 🏆 Achievements
 
-> **Currently building the track record.**
+| Area                     | Highlights                                                                        |
+| :----------------------- | :-------------------------------------------------------------------------------- |
+| 🎓 Academic Projects     | Mini Project — Result Analysis System · Major Project — Federated Heart Diagnosis |
+| 💼 Internship Experience | Beagle AI Solutions · Digital Marketing Internship — Infinite Store               |
+| 🤖 AI / ML Projects      | Active                                                                            |
+| 📜 Certifications        | Artificial Intelligence Fundamentals — IBM SkillsBuild                            |
+|                          | Fundamentals of Generative AI — AWS Training & Certification                      |
+|                          | AWS Cloud Practitioner Essentials — AWS Training & Certification                  |
+| 🌎 Open Source           | Growing                                                                           |
 
-| Area                     | Status                      |
-| :----------------------- | :-------------------------- |
-| 🎓 Academic Projects     | Active (Currently working on Major Project) 
-| 💼 Internship Experience | Intern at Beagle, Digital Marketing Intern- Infinite Store |
-| 🤖 AI / ML Projects      | Active                      |
-| 📜 Certifications        | Artificial Intelligence Fundamentals- IBM SkillsBuild, Fundamentals of Generative AI- AWS Training & Certification, AWS Cloud Practitioner Essentials- AWS Training & Certification.|
-| 🌎 Open Source           | Growing                     |
-
-> **No inflated claims. No fake badges.**
+> **Building the track record through real projects, internships and continuous learning.**
 
 ---
 
@@ -378,6 +443,26 @@ Improving:
 
 ---
 
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekr0514&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E5E7EB&ring_color=06B6D4" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekr0514&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" height="180" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhishekr0514&theme=dark&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
 # 🤝 Connect
 
 <div align="center">
@@ -386,9 +471,17 @@ Improving:
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://www.linkedin.com/in/abhishek-ravi-19557528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn link required" />
-<img src="" alt="Coming Soon" />
-<img src="abhishek.r0605@gmail.com" alt="Email link required" />
+<a href="https://www.linkedin.com/in/abhishek-ravi-19557528b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abhishek.r0605@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/abhishekr0514/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
