@@ -22,12 +22,6 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=abhishekr0514&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS" />
-
-</div>
-
 ---
 
 ## 🧠 About Me
@@ -115,7 +109,7 @@ of backend engineering, machine learning, and intelligent applications.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </p>
 
@@ -350,55 +344,57 @@ Experiments
 # 🚧 Currently Building
 
 <table>
-
 <tr>
 
-<td>
+<td width="33%" align="center" valign="top">
 
-### 🫀 Federated Heart Diagnosis
+<h2>🫀</h2>
 
-`ACTIVE`
+<h3>Federated Heart Diagnosis</h3>
 
-Building a privacy-aware ML platform combining:
+<p><strong>ACTIVE</strong></p>
 
-`Federated Learning` → `FastAPI` → `PostgreSQL` → `React`
+<p>
+Privacy-aware ML<br>
+Federated Learning<br>
+FastAPI + PostgreSQL + React
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h2>🧠</h2>
+
+<h3>AI / NLP Experiments</h3>
+
+<p><strong>EXPLORING</strong></p>
+
+<p>
+Embeddings<br>
+SentenceTransformers<br>
+Ollama + LLMs
+</p>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+<h2>⚡</h2>
+
+<h3>Full-Stack Engineering</h3>
+
+<p><strong>LEARNING</strong></p>
+
+<p>
+Backend Architecture<br>
+Authentication<br>
+Database + Deployment
+</p>
 
 </td>
 
 </tr>
-
-<tr>
-
-<td>
-
-### 🧠 AI / NLP Experiments
-
-`EXPLORING`
-
-Working with:
-
-`Embeddings` · `SentenceTransformers` · `Ollama`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🧑‍💻 Full-Stack Engineering
-
-`LEARNING`
-
-Improving:
-
-`Backend Architecture` · `Authentication` · `Database Design` · `Deployment`
-
-</td>
-
-</tr>
-
 </table>
 
 ---
@@ -409,7 +405,7 @@ Improving:
 | :----------------------- | :-------------------------------------------------------------------------------- |
 | 🎓 Academic Projects     | Mini Project — Result Analysis System · Major Project — Federated Heart Diagnosis |
 | 💼 Internship Experience | Beagle AI Solutions · Digital Marketing Internship — Infinite Store               |
-| 🤖 AI / ML Projects      | Active                                                                            |
+| 🤖 AI / ML Projects      | Dimensionality Reduction using ML Algorithms|
 | 📜 Certifications        | Artificial Intelligence Fundamentals — IBM SkillsBuild                            |
 |                          | Fundamentals of Generative AI — AWS Training & Certification                      |
 |                          | AWS Cloud Practitioner Essentials — AWS Training & Certification                  |
@@ -447,9 +443,17 @@ Improving:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekr0514&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=E5E7EB&ring_color=06B6D4" height="180" />
+<a href="https://github-stats-extended.vercel.app/api?username=abhishekr0514">
+<img height="200" src="https://github-stats-extended.vercel.app/api?username=abhishekr0514&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=8B5CF6&text_color=E5E7EB" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekr0514&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" height="180" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekr0514&layout=compact">
+<img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhishekr0514&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38BDF8&text_color=E5E7EB" />
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=abhishekr0514&theme=dark&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=38BDF8" />
 
 </div>
 
